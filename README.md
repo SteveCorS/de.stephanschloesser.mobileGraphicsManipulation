@@ -1,6 +1,6 @@
 de.stephanschloesser.mobileGraphicsManipulation
 ===============================================
 
-Android app for mobile graphic manipulation. 
+An android app for mobile graphic manipulation. 
 
-Android image manipulation program
+
